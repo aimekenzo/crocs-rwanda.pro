@@ -1,4 +1,3 @@
-# crocs-rwanda.pro
 # Crocs Rwanda
 
 Welcome to Crocs Rwanda! 
